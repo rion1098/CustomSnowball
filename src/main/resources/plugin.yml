@@ -1,0 +1,9 @@
+name: CustomSnowBall
+main: com.github.rion1098.csb.Main
+version: 0.1
+commands:
+   yukidama:
+   dropBall:
+   csb:
+   CustomSnowBall:
+   catchBall:
